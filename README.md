@@ -1,3 +1,2 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
-
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+# @zitterorg/quae-nulla
+这是超级美眉原型函数拓展模块，更有利于对string、array、object的操作，避免出错，简化业务逻辑。
